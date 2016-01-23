@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - meal-cms_development@localhost" uuid="aab84569-3191-4d44-ad5c-d1b4ed3a6728">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>meal-cms_development.*</schema-pattern>
+      <default-schemas>meal-cms_development.*</default-schemas>
+    </data-source>
+  </component>
+</project>
