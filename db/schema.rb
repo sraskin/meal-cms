@@ -55,7 +55,7 @@ ActiveRecord::Schema.define(version: 20160123213323) do
   end
 
   create_table "shopping_items", force: :cascade do |t|
-    t.integer  "shopping_id",    limit: 4
+    t.integer  "bazar_id",       limit: 4
     t.string   "goods_title",    limit: 255
     t.string   "goods_quantity", limit: 255
     t.integer  "goods_price",    limit: 4
